@@ -9,7 +9,7 @@ Name of Quantlet: LMVCAViaR_adaptive_quantile
 
 Published in: LMVCAViaR
 
-Description: estimate the quantile values at levels 5% and 1% with the localising multivariate CAViaR
+Description: estimate the quantile values at levels 5% and 1% with the localising multivariate CAViaR model under two risk cases.
 
 Keywords: 
 - return
