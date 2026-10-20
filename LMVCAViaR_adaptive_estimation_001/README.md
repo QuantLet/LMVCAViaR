@@ -9,7 +9,7 @@ Name of Quantlet: LMVCAViaR_adaptive_estimation_001
 
 Published in: LMVCAViaR
 
-Description: do the adaptive estimation for localising multivariate CAViaR model,
+Description: do the adaptive estimation for localising multivariate CAViaR model, under two risk cases at quantile level 1%.
 
 Keywords: 
 - return
