@@ -9,7 +9,7 @@ Name of Quantlet: LMVCAViaR_adaptive_estimation_length
 
 Published in: LMVCAViaR
 
-Description: plot the adaptive selected intervals of localising multivariate CAViaR model,
+Description: plot the adaptive selected intervals of localising multivariate CAViaR model, at two quantile levels 5% and 1% with two risk cases.
 
 Keywords: 
 - return
