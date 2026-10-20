@@ -9,7 +9,7 @@ Name of Quantlet: LMVCAViaR_estimate_rolling
 
 Published in: LMVCAViaR
 
-Description: do fixed rolling window exercises using 60 and 500 observations
+Description: do fixed rolling window exercises using 60 and 500 observations for the two selected return time series DAX and SP 500 with the multivariate CAViaR model.
 
 Keywords: 
 - return
